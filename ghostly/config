@@ -1,0 +1,14 @@
+#Theme
+theme = Catppuccin Mocha
+
+# Font settings
+font-family = JetBrains Mono
+font-size = 18
+
+# UI
+background-opacity = 0.90
+background-blur-radius = 20
+mouse-hide-while-typing = true
+
+# Keybind
+keybind = ctrl+r=reload_config
