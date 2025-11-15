@@ -1,1 +1,0 @@
-/Users/davidzh/.config/tmux
